@@ -26,7 +26,7 @@ Includes:​​
 
 ## 📈 Performance Highlights
 
-​*Consumer-grade MEMS (BMG250) achieves strategic-grade performance*
+​*Consumer-grade MEMS achieves strategic-grade performance*
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/691abd16-8c06-470c-a7bb-9b252ddc238c" />
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/b0fbbaef-2e6f-4f3d-8a3c-b10a36998886" />
