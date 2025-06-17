@@ -49,4 +49,3 @@ Cite our work:​​
 
 📄 ​​Full Paper​​: https://arxiv.org/abs/2506.06318
 
-💻 ​​Code & Data​​: github.com/yourusername/moe-gyro
